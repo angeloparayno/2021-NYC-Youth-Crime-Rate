@@ -1,7 +1,5 @@
 # 2021-NYC-Youth-Crime-Rate
 ### COOP Data Analytics Project (2022)
-
----
 Presented with a pod of 5 to analyze 2021 NYC Crime Rate through 150,000+ rows of data and correlate external studies to find ways to decrease recidivism among the incarcerated youths
 
 ---
