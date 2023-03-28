@@ -10,4 +10,4 @@ Presented with a pod of 5 to analyze 2021 NYC Crime Rate through 150,000+ rows o
   * Zipped *.csv* file
 
 ---
-![](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate/blob/main/Images/Title%20Page.png)
+![](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate/blob/main/Images/Title%20Page%20v2.png)
